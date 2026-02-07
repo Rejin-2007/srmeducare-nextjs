@@ -46,7 +46,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-image.webp",
         width: 1200,
         height: 630,
         alt: "SRM Educare Kerala PSC Online Classes",
@@ -57,7 +57,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "SRM Educare - Kerala PSC Online Classes",
     description: "Best Kerala PSC online coaching with expert guidance",
-    images: ["/twitter-image.jpg"],
+    images: ["/twitter-image.webp"],
   },
   robots: {
     index: true,

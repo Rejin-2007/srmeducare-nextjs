@@ -5,7 +5,7 @@ import Image from "next/image";
 const AboutSection = () => {
   const aboutData = {
     title: "About SRM Educare – Kerala PSC Online Coaching",
-    logo: "/logo.jpg",
+    logo: "/logo.webp",
     content: {
       introduction:
         "SRM EDUCARE INDIVIDUAL ONLINE Educating Service was established in 2021 under the company SREERAM AGENCY, focusing on Kerala PSC online classes and personal coaching.",

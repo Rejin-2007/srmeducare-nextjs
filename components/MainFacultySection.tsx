@@ -13,7 +13,7 @@ const MainFacultySection = () => {
         name: "Preetha H",
         education: "B.Sc, B.Ed",
         role: "CEO & Head Of Education",
-        image: "/PREETHA_H.jpeg",
+        image: "/PREETHA_H.webp",
         bio: "The only thing that I, along with every teacher here, offer to the world is to provide personalized training to each student who arrives with the hope of succeeding in their studies.",
       },
       {
@@ -21,7 +21,7 @@ const MainFacultySection = () => {
         name: "Vimal VS",
         education: "",
         role: "H.O.D (PSC Classes & Marketing Organisation)",
-        image: "/vimal_vs.jpeg",
+        image: "/vimal_vs.webp",
         bio: "Teaching is not just a job, it's a divine art for our society.",
       },
       {
@@ -29,7 +29,7 @@ const MainFacultySection = () => {
         name: "Ashish V S",
         education: "BA & MA Economics",
         role: "PSC Tricks & Tips Master",
-        image: "/ASHISH_V_S.jpeg",
+        image: "/ASHISH_V_S.webp",
         bio: "All subjects are taught using codes based on previous year question papers to make learning simple.",
       },
       {
@@ -37,7 +37,7 @@ const MainFacultySection = () => {
         name: "Shibin",
         education: "BSc Maths",
         role: "Mathematics & English",
-        image: "/shibin.jpeg",
+        image: "/shibin.webp",
         bio: "Dedicated to ensuring 100% success for every aspirant in Maths and English.",
       },
       {
@@ -45,7 +45,7 @@ const MainFacultySection = () => {
         name: "Sariga MS",
         education: "B.Sc Botany",
         role: "Science & Constitution",
-        image: "/sariga_MS.jpeg",
+        image: "/sariga_MS.webp",
         bio: "Committed to supporting job aspirants until they secure government employment.",
       },
       {
@@ -53,7 +53,7 @@ const MainFacultySection = () => {
         name: "Siniya",
         education: "B.Ed with KTET Category 3",
         role: "History, Economics, Civics",
-        image: "/SINIYA.jpeg",
+        image: "/SINIYA.webp",
         bio: "Let history, economics, and citizenship guide you to a noble future.",
       },
       {
@@ -61,7 +61,7 @@ const MainFacultySection = () => {
         name: "Najitha Sharaf",
         education: "MA Economics",
         role: "PSC - Economics",
-        image: "/najitha.jpeg",
+        image: "/najitha.webp",
         bio: "",
       },
       {
@@ -69,7 +69,7 @@ const MainFacultySection = () => {
         name: "Rijeena Saju",
         education: "MA English Literature",
         role: "English, Geography, Malayalam, Civics",
-        image: "/RijeenaSaju.jpeg",
+        image: "/RijeenaSaju.webp",
         bio: "Flexible learning with personal monitoring for every aspirant.",
       },
       {
@@ -77,7 +77,7 @@ const MainFacultySection = () => {
         name: "Athira Shaji",
         education: "MA Criminology & PhD (Ongoing)",
         role: "Sports, Arts, Literature, Culture",
-        image: "/AthiraShaji.jpeg",
+        image: "/AthiraShaji.webp",
         bio: "If you have the will, SRM can help you achieve your dream job.",
       },
       {
@@ -85,7 +85,7 @@ const MainFacultySection = () => {
         name: "Shubhija RK",
         education: "M.Tech Structural Engineering",
         role: "PSC - Civil Engineering",
-        image: "/shubhaja_rk.jpeg",
+        image: "/shubhaja_rk.webp",
         bio: "Committed to guiding students towards successful government careers.",
       },
       {
@@ -93,7 +93,7 @@ const MainFacultySection = () => {
         name: "Derly",
         education: "ME Structural Engineering",
         role: "PSC - Civil",
-        image: "/derly.jpeg",
+        image: "/derly.webp",
         bio: "",
       },
       {
@@ -101,7 +101,7 @@ const MainFacultySection = () => {
         name: "Aju",
         education: "BSc Maths",
         role: "Maths & General PSC",
-        image: "/aju.jpeg",
+        image: "/aju.webp",
         bio: "",
       },
       {
@@ -109,7 +109,7 @@ const MainFacultySection = () => {
         name: "Vineetha",
         education: "B.Com Cooperation",
         role: "History & Economics",
-        image: "/vineetha.jpeg",
+        image: "/vineetha.webp",
         bio: "Hard work and dedication can fulfill your dream through SRM.",
       },
       {
@@ -117,7 +117,7 @@ const MainFacultySection = () => {
         name: "Karishma Nair",
         education: "MA English Literature",
         role: "English Grammar",
-        image: "/karishma-nair.jpeg",
+        image: "/karishma-nair.webp",
         bio: "Dedicated to achieving 100% success for every English learner.",
       },
       {
@@ -125,7 +125,7 @@ const MainFacultySection = () => {
         name: "Aswathy",
         education: "M.Sc, B.Ed",
         role: "Maths - PSC & +1 +2",
-        image: "/aswathy.jpeg",
+        image: "/aswathy.webp",
         bio: "",
       },
     ],

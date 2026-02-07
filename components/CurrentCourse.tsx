@@ -20,7 +20,7 @@ const CurrentCourse = () => {
             className="group relative rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition"
           >
             <Image
-              src="/psc.jpg"
+              src="/psc.webp"
               alt="Kerala PSC Online Coaching"
               width={800}
               height={500}
@@ -51,7 +51,7 @@ const CurrentCourse = () => {
             className="group relative rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition"
           >
             <Image
-              src="/tution.jpg"
+              src="/tution.webp"
               alt="Online Tuition Classes in Kerala"
               width={800}
               height={500}

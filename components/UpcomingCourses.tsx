@@ -9,7 +9,7 @@ const COURSES = [
   {
     id: '1',
     name: 'English Grammar',
-    img: '/english.jpg',
+    img: '/english.webp',
     description: 'Master English grammar with comprehensive lessons',
     startDate: '2024-06-01',
     category: 'Language',
@@ -17,7 +17,7 @@ const COURSES = [
   {
     id: '2',
     name: 'Hindi Grammar',
-    img: '/hindi.jpg',
+    img: '/hindi.webp',
     description: 'Learn Hindi grammar from basics to advanced',
     startDate: '2024-06-15',
     category: 'Language',
@@ -25,7 +25,7 @@ const COURSES = [
   {
     id: '3',
     name: 'Other Courses',
-    img: '/othercourses.jpg',
+    img: '/othercourses.webp',
     description: 'Explore various upcoming course offerings',
     startDate: '2024-07-01',
     category: 'General',

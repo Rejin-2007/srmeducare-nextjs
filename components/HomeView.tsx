@@ -13,7 +13,7 @@ const HomeView = ({ title }: HomeViewProps) => {
     <section
       className="relative h-screen min-h-150 flex items-center justify-center bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: "url('/homeimg.jpg')",
+        backgroundImage: "url('/homeimg.webp')",
       }}
       role="banner"
       aria-label="SRM Educare homepage banner"
